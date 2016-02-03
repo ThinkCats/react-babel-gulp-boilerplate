@@ -1,11 +1,11 @@
 {
-  "name": "react-gulp-boilerplate",
+  "name": "react-babel-gulp-boilerplate",
   "version": "0.1.0",
-  "description": "a boilerplate for React-Babel-Gulp project",
+  "description": "",
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "https://"
+    "url": "https://github.com/mrdream24/react-babel-gulp-boilerplate"
   },
   "keywords": [
     "gulp",
@@ -28,7 +28,7 @@
   "author": "Mrdream",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com//issues"
+    "url": "https://github.com/mrdream24/react-babel-gulp-boilerplate/issues"
   },
   "dependencies": {
     "history": "^1.17.0",
