@@ -31,12 +31,10 @@
     "url": "https://github.com/mrdream24/react-babel-gulp-boilerplate/issues"
   },
   "dependencies": {
-    "history": "^1.17.0",
     "lodash": "^4.0.0",
-    "react": "^0.14.0",
-    "react-addons-css-transition-group": "^0.14.5",
-    "react-dom": "^0.14.0",
-    "react-router": "^1.0.3"
+    "react": "^15.2.0",
+    "react-dom": "^15.2.0",
+    "react-router": "^2.5.2"
   },
   "devDependencies": {
     "autoprefixer": "^6.0.0",
